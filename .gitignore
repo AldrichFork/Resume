@@ -1,0 +1,21 @@
+angular-phonecat/
+
+node_modules/
+
+bower_components/
+
+resource-swiper/
+
+credentials.js
+
+password.php
+
+#webstorm
+workspace.xml
+vcs.xml
+modules.xml
+misc.xml
+encodings.xml
+baidu front-end school.iml
+Project_Default.xml
+aldrich.xml
